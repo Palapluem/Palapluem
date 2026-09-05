@@ -109,16 +109,12 @@ I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Palapluem">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Palapluem&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" alt="Wisit's GitHub stats" />
-  </a>
-  <a href="https://github.com/Palapluem">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palapluem&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Wisit's top languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palapluem&theme=default" alt="Wisit's GitHub profile details" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Palapluem&theme=transparent&hide_border=true" alt="Wisit's GitHub streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palapluem&theme=default" alt="Wisit's GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palapluem&theme=default" alt="Wisit's repositories by language" />
 </div>
 
 <div align="center">
