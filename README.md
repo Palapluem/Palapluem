@@ -1,17 +1,8 @@
 # Hi 👋 I'm Wisit Suwannao
 
 <div align="center">
-  <p><strong>AI Engineer · Computer Engineering Student · Data Engineering in Progress</strong></p>
+  <p><strong>AI Engineer · Data Engineering &amp; Analytics Enthusiast</strong></p>
   <p>Building reliable AI systems across RAG, OCR/VLM, Thai NLP, forecasting, and data platforms.</p>
-
-  <p>
-    <a href="https://palapluem.xyz"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://www.linkedin.com/in/wisit-suwannao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:wisit.p.2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.skills.google/public_profiles/7a758760-9c99-4fad-9851-dd6cc083bbad"><img src="https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" /></a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=Palapluem&style=flat-square&color=0e75b6&label=profile+views" alt="Profile views" />
 </div>
 
 ---
@@ -20,19 +11,18 @@
 
 I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT) and an AI Engineer who enjoys turning models into dependable products.
 
-- 🤖 **Focus:** evidence-grounded AI, RAG, OCR/VLM, Thai NLP, computer vision, and time-series forecasting
-- 🧩 **Engineering mindset:** connect ingestion, retrieval, evaluation, typed APIs, guardrails, and reproducible deployment
-- ☁️ **Currently strengthening:** Data Engineering, GCP, BigQuery, data modeling, quality gates, lineage, and idempotent pipelines
+- 🤖 **AI Engineer:** evidence-grounded AI, RAG, OCR/VLM, Thai NLP, computer vision, time-series forecasting, and agentic workflows
+- 🧱 **Data Engineer:** ingestion, data modeling, quality gates, lineage, idempotent pipelines, and analytical serving
+- 📊 **Data Analyst:** EDA, metric design, forecasting features, data validation, and translating data into useful decisions
+- 🎯 **Interested in:** AI Engineering, Data Engineering, Data Analytics, and production systems that connect models with trustworthy data
+- ☁️ **Currently strengthening:** GCP, BigQuery, cloud AI services, and end-to-end data platforms
 - 📍 **Based in:** Bangkok, Thailand
 
 ## 🌐 Socials
 
-<div align="left">
-  <a href="https://github.com/Palapluem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/wisit-suwannao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://palapluem.xyz"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.skills.google/public_profiles/7a758760-9c99-4fad-9851-dd6cc083bbad"><img src="https://img.shields.io/badge/Google%20Skills%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Skills Profile" /></a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palapluem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisit-suwannao) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wisit.p.2005@gmail.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pluemwisit.suwannao) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ppalapluem/) ![Discord: palapluem](https://img.shields.io/badge/Discord-palapluem-5865F2?style=for-the-badge&logo=discord&logoColor=white) [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/7a758760-9c99-4fad-9851-dd6cc083bbad)
 
 ## 💼 Experience
 
@@ -62,13 +52,13 @@ I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's
 - **Level 1 (24 Jan - 1 Mar 2025):** passed the baseline hackathon across Thai NER, image captioning, tabular/clinical prediction, house recognition, and physiological sleep-stage classification.
 - **Level 2 (2 - 28 Jun 2025):** built four applied solutions: a Financial Analysis Agent, Liver Fibrosis Prediction, Cognitive Profiling Prediction, and GSMaP satellite-data bias correction.
 
-### Thai Public Data Platform — Current project
+### Data Engineering project — Thai Public Data Platform
 `Sep 2026 - Present` · [repository](https://github.com/Palapluem/thai-public-data-platform)
 
 - Building a local-first platform that turns heterogeneous government Excel, CSV, JSON, and HTML sources into reproducible, quality-gated analytical data products.
 - Working with PostgreSQL raw/staging/core/ops layers, cell-level lineage, SHA-256 source identity, retry-safe publication, an **8-task Airflow DAG**, ClickHouse, Docker Compose, and GitHub Actions CI.
 
-### Selected project — Twenty Constitutions Digitalization
+### Data / AI project — Twenty Constitutions Digitalization
 `Apr - May 2026` · [presentation](https://github.com/Palapluem/cpe232-datamodel-2025/blob/main/project/CPE232%20Presentation_Twenty%20Constitutions%20Digitalization.pdf)
 
 - Prepared a corpus from **20 Thai constitutions**, **38 PDF files**, and approximately **61,000 words** using OCR/text extraction, Thai normalization, metadata structuring, validation, and JSON/CSV export.
@@ -84,39 +74,36 @@ I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's
 
 ## 🛠️ Tech Stack
 
-#### Languages
+### 👨‍💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,java,c,cpp,cs" alt="Programming languages" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-#### AI / ML
+### 🤖 AI Engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" alt="AI and machine learning tools" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-`RAG` · `Hybrid Search` · `Reranking` · `Agentic AI` · `MCP Tools` · `OCR/VLM` · `Thai NLP` · `NER` · `Computer Vision` · `Time-series Forecasting` · `PyCaret` · `AutoGluon` · `WangchanBERTa` · `BLIP-2` · `Typhoon OCR` · `BGE-M3` · `BM25` · `RRF`
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge) ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-4B5563?style=for-the-badge) ![Reranking](https://img.shields.io/badge/Reranking-4B5563?style=for-the-badge) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-4B5563?style=for-the-badge) ![OCR%2FVLM](https://img.shields.io/badge/OCR%2FVLM-4B5563?style=for-the-badge) ![Thai NLP](https://img.shields.io/badge/Thai%20NLP-4B5563?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B5563?style=for-the-badge) ![Time--series](https://img.shields.io/badge/Time--series%20Forecasting-4B5563?style=for-the-badge)
 
-#### Backend / Data / Cloud
+`PyCaret` · `AutoGluon` · `WangchanBERTa` · `BLIP-2` · `Typhoon OCR` · `BGE-M3` · `BM25` · `RRF` · `MCP Tools`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,postgres,mongodb,docker,airflow,gcp,githubactions,linux" alt="Backend, data, cloud, and DevOps tools" />
-</p>
+### 📊 Data Engineering & Analytics
 
-`FastAPI` · `Pydantic` · `Next.js` · `React` · `Pandas` · `PostgreSQL` · `ChromaDB` · `MinIO` · `Apache Airflow` · `ClickHouse` · `BigQuery` · `Cloud Run` · `Document AI` · `Vertex AI/MLOps` · `Huawei Cloud` · `Docker Compose` · `GitHub Actions`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-2563EB?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2563EB?style=for-the-badge) ![Data Quality](https://img.shields.io/badge/Data%20Quality-2563EB?style=for-the-badge) ![Data Lineage](https://img.shields.io/badge/Data%20Lineage-2563EB?style=for-the-badge) ![Forecasting](https://img.shields.io/badge/Forecasting-2563EB?style=for-the-badge)
+
+### ☁️ Cloud, Backend & DevOps
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Document AI](https://img.shields.io/badge/Document%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-0F766E?style=for-the-badge) ![CI](https://img.shields.io/badge/CI-0F766E?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palapluem&theme=default" alt="Wisit's GitHub profile details" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palapluem&theme=default" alt="Wisit's GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palapluem&theme=default" alt="Wisit's repositories by language" />
-</div>
-
-<div align="center">
-  <sub>Thanks for stopping by — feel free to explore my repositories and connect with me.</sub>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Palapluem&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400" height="160" alt="Wisit's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Palapluem&layout=compact&theme=dark&hide_border=false&include_forks=true&count_private=false&langs_count=7&cache_seconds=86400" height="160" alt="Wisit's top languages" />
+  <img src="https://streak-stats.demolab.com?user=Palapluem&theme=dark&hide_border=false&cache_seconds=86400" height="160" alt="Wisit's GitHub streak" />
 </div>
