@@ -102,12 +102,6 @@ I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-### 🧰 Tools:
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Docling](https://img.shields.io/badge/Docling-0F766E?style=for-the-badge) ![ColPali](https://img.shields.io/badge/ColPali-0F766E?style=for-the-badge) ![Typhoon OCR](https://img.shields.io/badge/Typhoon%20OCR-0F766E?style=for-the-badge) ![PyThaiNLP](https://img.shields.io/badge/PyThaiNLP-0F766E?style=for-the-badge) ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-0F766E?style=for-the-badge) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-0F766E?style=for-the-badge) ![pdfplumber](https://img.shields.io/badge/pdfplumber-0F766E?style=for-the-badge)
-
-![BGE--M3](https://img.shields.io/badge/BGE--M3-4B5563?style=for-the-badge) ![BM25](https://img.shields.io/badge/BM25-4B5563?style=for-the-badge) ![TF--IDF](https://img.shields.io/badge/TF--IDF-4B5563?style=for-the-badge) ![RRF](https://img.shields.io/badge/RRF-4B5563?style=for-the-badge) ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-4B5563?style=for-the-badge) ![SimpleTransformers](https://img.shields.io/badge/SimpleTransformers-4B5563?style=for-the-badge) ![OpenTyphoon](https://img.shields.io/badge/OpenTyphoon-4B5563?style=for-the-badge) ![Qwen](https://img.shields.io/badge/Qwen-4B5563?style=for-the-badge)
-
 
 ## 📊 GitHub Stats
 
