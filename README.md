@@ -72,33 +72,42 @@ I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's
 - 🎖️ **2025 — Top 10 Finalist**, CAI CAMP: PromoAutomate; reduced coupon setup effort by **2,192 hours/month** with computer vision and generative AI
 - 🎓 **2026 — Google Cloud Skills Boost badges/coursework:** GCP Foundations, BigQuery, BigQuery ML, Cloud Run, Document AI, Vertex AI/MLOps, Vector Search & RAG, and Agent Platform
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack:
 
-### 👨‍💻 Languages
+### 👨‍💻 Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-### 🤖 AI Engineering
+### 🎨 Frontend & Frameworks:
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 
-![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge) ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-4B5563?style=for-the-badge) ![Reranking](https://img.shields.io/badge/Reranking-4B5563?style=for-the-badge) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-4B5563?style=for-the-badge) ![OCR%2FVLM](https://img.shields.io/badge/OCR%2FVLM-4B5563?style=for-the-badge) ![Thai NLP](https://img.shields.io/badge/Thai%20NLP-4B5563?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B5563?style=for-the-badge) ![Time--series](https://img.shields.io/badge/Time--series%20Forecasting-4B5563?style=for-the-badge)
+### ⚙️ Backend & Frameworks:
 
-`PyCaret` · `AutoGluon` · `WangchanBERTa` · `BLIP-2` · `Typhoon OCR` · `BGE-M3` · `BM25` · `RRF` · `MCP Tools`
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Go Chi](https://img.shields.io/badge/Go%2FChi-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 📊 Data Engineering & Analytics
+### 🗄️ Databases & Storage:
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-2563EB?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2563EB?style=for-the-badge) ![Data Quality](https://img.shields.io/badge/Data%20Quality-2563EB?style=for-the-badge) ![Data Lineage](https://img.shields.io/badge/Data%20Lineage-2563EB?style=for-the-badge) ![Forecasting](https://img.shields.io/badge/Forecasting-2563EB?style=for-the-badge)
+### ☁️ Cloud & DevOps:
 
-### ☁️ Cloud, Backend & DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### 🤖 AI / Data Science:
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Document AI](https://img.shields.io/badge/Document%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-2563EB?style=for-the-badge) ![AutoGluon](https://img.shields.io/badge/AutoGluon-2563EB?style=for-the-badge) ![WangchanBERTa](https://img.shields.io/badge/WangchanBERTa-2563EB?style=for-the-badge) ![BLIP--2](https://img.shields.io/badge/BLIP--2-2563EB?style=for-the-badge) ![Timm](https://img.shields.io/badge/Timm-2563EB?style=for-the-badge) ![FastAI](https://img.shields.io/badge/FastAI-2563EB?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-0F766E?style=for-the-badge) ![CI](https://img.shields.io/badge/CI-0F766E?style=for-the-badge)
+### 📈 Data Engineering & Analytics:
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+
+### 🧰 Tools:
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Docling](https://img.shields.io/badge/Docling-0F766E?style=for-the-badge) ![ColPali](https://img.shields.io/badge/ColPali-0F766E?style=for-the-badge) ![Typhoon OCR](https://img.shields.io/badge/Typhoon%20OCR-0F766E?style=for-the-badge) ![PyThaiNLP](https://img.shields.io/badge/PyThaiNLP-0F766E?style=for-the-badge) ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-0F766E?style=for-the-badge) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-0F766E?style=for-the-badge) ![pdfplumber](https://img.shields.io/badge/pdfplumber-0F766E?style=for-the-badge)
+
+![BGE--M3](https://img.shields.io/badge/BGE--M3-4B5563?style=for-the-badge) ![BM25](https://img.shields.io/badge/BM25-4B5563?style=for-the-badge) ![TF--IDF](https://img.shields.io/badge/TF--IDF-4B5563?style=for-the-badge) ![RRF](https://img.shields.io/badge/RRF-4B5563?style=for-the-badge) ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-4B5563?style=for-the-badge) ![SimpleTransformers](https://img.shields.io/badge/SimpleTransformers-4B5563?style=for-the-badge) ![OpenTyphoon](https://img.shields.io/badge/OpenTyphoon-4B5563?style=for-the-badge) ![Qwen](https://img.shields.io/badge/Qwen-4B5563?style=for-the-badge)
+
 
 ## 📊 GitHub Stats
 
