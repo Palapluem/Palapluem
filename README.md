@@ -14,7 +14,8 @@ I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's
 - 🤖 **AI Engineer:** evidence-grounded AI, RAG, OCR/VLM, Thai NLP, computer vision, time-series forecasting, and agentic workflows
 - 🧱 **Data Engineer:** ingestion, data modeling, quality gates, lineage, idempotent pipelines, and analytical serving
 - 📊 **Data Analyst:** EDA, metric design, forecasting features, data validation, and translating data into useful decisions
-- 🎯 **Interested in:** AI Engineering, Data Engineering, Data Analytics, and production systems that connect models with trustworthy data
+- 🧩 **Software Engineering:** APIs, product integration, testing, CI/CD, and maintainable systems
+- 🎯 **Interested in:** AI Engineering, Data Engineering, Data Analytics, Software Engineering, and production systems that connect models with trustworthy data
 - ☁️ **Currently strengthening:** GCP, BigQuery, cloud AI services, and end-to-end data platforms
 - 📍 **Based in:** Bangkok, Thailand
 
@@ -76,7 +77,8 @@ I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's
 
 ### 👨‍💻 Languages:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🎨 Frontend & Frameworks:
 
@@ -96,11 +98,15 @@ I'm Wisit Suwannao (Palapluem), a Computer Engineering student at King Mongkut's
 
 ### 🤖 AI / Data Science:
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-2563EB?style=for-the-badge) ![AutoGluon](https://img.shields.io/badge/AutoGluon-2563EB?style=for-the-badge) ![WangchanBERTa](https://img.shields.io/badge/WangchanBERTa-2563EB?style=for-the-badge) ![BLIP--2](https://img.shields.io/badge/BLIP--2-2563EB?style=for-the-badge) ![Timm](https://img.shields.io/badge/Timm-2563EB?style=for-the-badge) ![FastAI](https://img.shields.io/badge/FastAI-2563EB?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-2563EB?style=for-the-badge) ![AutoGluon](https://img.shields.io/badge/AutoGluon-2563EB?style=for-the-badge) ![WangchanBERTa--LST20](https://img.shields.io/badge/WangchanBERTa--LST20-2563EB?style=for-the-badge) ![BLIP--2](https://img.shields.io/badge/BLIP--2-2563EB?style=for-the-badge) ![Timm](https://img.shields.io/badge/Timm-2563EB?style=for-the-badge) ![FastAI](https://img.shields.io/badge/FastAI-2563EB?style=for-the-badge) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Docling](https://img.shields.io/badge/Docling-0F766E?style=for-the-badge) ![ColPali](https://img.shields.io/badge/ColPali-0F766E?style=for-the-badge) ![Typhoon%20OCR%201.5](https://img.shields.io/badge/Typhoon%20OCR%201.5-0F766E?style=for-the-badge) ![PyThaiNLP](https://img.shields.io/badge/PyThaiNLP-0F766E?style=for-the-badge) ![SimpleTransformers](https://img.shields.io/badge/SimpleTransformers-0F766E?style=for-the-badge) ![OpenTyphoon](https://img.shields.io/badge/OpenTyphoon-0F766E?style=for-the-badge) ![Qwen%203.6%20Flash](https://img.shields.io/badge/Qwen%203.6%20Flash-0F766E?style=for-the-badge)
+
+![BGE--M3](https://img.shields.io/badge/BGE--M3-4B5563?style=for-the-badge) ![BM25](https://img.shields.io/badge/BM25-4B5563?style=for-the-badge) ![TF--IDF](https://img.shields.io/badge/TF--IDF-4B5563?style=for-the-badge) ![RRF](https://img.shields.io/badge/RRF-4B5563?style=for-the-badge) ![MCP Tools](https://img.shields.io/badge/MCP%20Tools-4B5563?style=for-the-badge)
 
 ### 📈 Data Engineering & Analytics:
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black) ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-2563EB?style=for-the-badge) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-2563EB?style=for-the-badge) ![pdfplumber](https://img.shields.io/badge/pdfplumber-2563EB?style=for-the-badge)
 
 
 ## 📊 GitHub Stats
