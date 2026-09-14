@@ -108,8 +108,6 @@ I'm currently interested in internship opportunities where I can contribute to A
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### NLP, RAG &amp; Document AI
-
 ![Docling](https://img.shields.io/badge/Docling-0F766E?style=for-the-badge) ![ColPali](https://img.shields.io/badge/ColPali-0F766E?style=for-the-badge) ![Typhoon%20OCR%201.5](https://img.shields.io/badge/Typhoon%20OCR%201.5-0F766E?style=for-the-badge) ![PyThaiNLP](https://img.shields.io/badge/PyThaiNLP-0F766E?style=for-the-badge) ![SimpleTransformers](https://img.shields.io/badge/SimpleTransformers-0F766E?style=for-the-badge) ![OpenTyphoon](https://img.shields.io/badge/OpenTyphoon-0F766E?style=for-the-badge)
 
 **Applied models & methods:** WangchanBERTa-LST20 · BLIP-2 · Qwen 3.6 Flash · BGE-M3 · BM25 · TF-IDF · Reciprocal Rank Fusion (RRF)
