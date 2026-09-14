@@ -110,8 +110,6 @@ I'm currently interested in internship opportunities where I can contribute to A
 
 ![Docling](https://img.shields.io/badge/Docling-0F766E?style=for-the-badge) ![ColPali](https://img.shields.io/badge/ColPali-0F766E?style=for-the-badge) ![Typhoon%20OCR%201.5](https://img.shields.io/badge/Typhoon%20OCR%201.5-0F766E?style=for-the-badge) ![PyThaiNLP](https://img.shields.io/badge/PyThaiNLP-0F766E?style=for-the-badge) ![SimpleTransformers](https://img.shields.io/badge/SimpleTransformers-0F766E?style=for-the-badge) ![OpenTyphoon](https://img.shields.io/badge/OpenTyphoon-0F766E?style=for-the-badge)
 
-**Applied models & methods:** WangchanBERTa-LST20 · BLIP-2 · Qwen 3.6 Flash · BGE-M3 · BM25 · TF-IDF · Reciprocal Rank Fusion (RRF)
-
 ### Backend, Product &amp; Databases
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white) ![Go%2FChi](https://img.shields.io/badge/Go%2FChi-00ADD8?style=for-the-badge&logo=go&logoColor=white)
