@@ -95,48 +95,36 @@ I'm especially interested in internship opportunities in AI Engineering and Data
 
 ### Programming Languages
 
-<p align="left">
-  <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-  <a href="https://www.oracle.com/java/" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-  <a href="https://en.cppreference.com/w/c/language" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://isocpp.org/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-  <code>SQL</code>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://go.dev/" title="Go"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### AI Engineering &amp; Data Science
 
-<p align="left">
-  <a href="https://pytorch.org/" title="PyTorch"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /></a>
-  <a href="https://scikit-learn.org/" title="scikit-learn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" /></a>
-  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a>
-  <a href="https://jupyter.org/" title="Jupyter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" /></a>
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-2563EB?style=for-the-badge) ![AutoGluon](https://img.shields.io/badge/AutoGluon-2563EB?style=for-the-badge) ![timm](https://img.shields.io/badge/timm-2563EB?style=for-the-badge) ![fastai](https://img.shields.io/badge/fastai-2563EB?style=for-the-badge)
 
-Also used in applied ML work: [PyCaret](https://github.com/pycaret/pycaret), [AutoGluon](https://auto.gluon.ai/), [timm](https://github.com/huggingface/pytorch-image-models), and [fastai](https://docs.fast.ai/).
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Backend, Data &amp; Cloud
+### NLP &amp; Document AI
 
-<p align="left">
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" height="40" /></a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
-  <a href="https://airflow.apache.org/" title="Apache Airflow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40" /></a>
-  <a href="https://clickhouse.com/" title="ClickHouse"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse" width="40" height="40" /></a>
-  <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a>
-  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" /></a>
-</p>
+![Docling](https://img.shields.io/badge/Docling-0F766E?style=for-the-badge) ![Typhoon%20OCR](https://img.shields.io/badge/Typhoon%20OCR-0F766E?style=for-the-badge) ![PyThaiNLP](https://img.shields.io/badge/PyThaiNLP-0F766E?style=for-the-badge) ![SimpleTransformers](https://img.shields.io/badge/SimpleTransformers-0F766E?style=for-the-badge)
+
+### Backend, Product &amp; Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Go%2FChi](https://img.shields.io/badge/Go%2FChi-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+### Data Platforms, Cloud &amp; DevOps
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Palapluem&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;cache_seconds=86400" width="49%" alt="Wisit's GitHub statistics" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Palapluem&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;include_forks=true&amp;count_private=false&amp;langs_count=7&amp;cache_seconds=86400" width="49%" alt="Most-used programming languages in Wisit's repositories" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Palapluem&amp;theme=dark&amp;hide_border=true&amp;cache_seconds=86400" alt="Wisit's GitHub contribution streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Palapluem&amp;theme=dark&amp;show_icons=true&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;cache_seconds=86400" height="160" alt="Wisit's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Palapluem&amp;layout=compact&amp;theme=dark&amp;hide_border=false&amp;include_forks=true&amp;count_private=false&amp;langs_count=7&amp;cache_seconds=86400" height="160" alt="Wisit's top languages" />
+  <img src="https://streak-stats.demolab.com?user=Palapluem&amp;theme=dark&amp;hide_border=false&amp;cache_seconds=86400" height="160" alt="Wisit's GitHub streak" />
 </div>
